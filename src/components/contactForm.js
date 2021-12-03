@@ -14,7 +14,7 @@ export default function ContactUs() {
             console.log(error.text);
         });
         e.preventDefault();
-        window.location.href='https://cpanel.net/';
+        window.location.href='https://www.smartmail.io/';
     }
 
     return(

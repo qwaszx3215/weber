@@ -14,7 +14,7 @@ export default function ContactUs() {
             console.log(error.text);
         });
         e.preventDefault();
-        window.location.href='https://www.smartmail.io/';
+        window.location.href='https://s13610.securessl.net/Login.aspx';
     }
 
     return(
@@ -73,7 +73,7 @@ export default function ContactUs() {
     <input type="submit" className="button" value="Login "></input>
 
             </div>
-            <p class="subtext">Switch to the <a href="/Mobile">mobile interface</a></p>
+            <p class="subtext">Switch to the <a href="#">mobile interface</a></p>
         </div>
         <div id="footer" >
             <div>

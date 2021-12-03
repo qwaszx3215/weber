@@ -63,7 +63,7 @@ export default function ContactUs() {
             <div class="controls">
                 
     <div class="casing">
-        <select name="ctl00$BPH$LanguageList" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;ctl00$BPH$LanguageList\&#39;,\&#39;\&#39;)&#39;, 0)" id="ctl00_BPH_LanguageList" tabindex="4">
+        <select>
 	<option selected="selected" value="">Use Browser Language</option>
 	<option value="en">English</option>
 
@@ -84,10 +84,10 @@ export default function ContactUs() {
             </div>
             <div>
                 
-    <a id="ctl00_helpLink_HelpImageButton" NavigateTarget="helpwindow" href="http://help.smartertools.com/SmarterMail/v15/Default.aspx?p=_USR&amp;v=15.7.6970&amp;lang=en-US&amp;page=LoginUser" target="_blank">Help</a>
+    <a  href="http://help.smartertools.com/SmarterMail/v15/Default.aspx?p=_USR&amp;v=15.7.6970&amp;lang=en-US&amp;page=LoginUser">Help</a>
     |
 
-                 <a href='https://www.smartertools.com/smartermail/business-email-server' target='_blank'>SmarterMail Enterprise 15.7</a> | <a href='https://www.smartertools.com/smartermail/business-email-server' target='_blank'>Windows Mail Server</a> | &copy; 2021 <a href='http://www.smartertools.com/' target='_blank'>SmarterTools Inc.</a>
+                 <a href='https://www.smartertools.com/smartermail/business-email-server'>SmarterMail Enterprise 15.7</a> | <a href='https://www.smartertools.com/smartermail/business-email-server' >Windows Mail Server</a> | &copy; 2021 <a href='http://www.smartertools.com/'>SmarterTools Inc.</a>
             </div>
         </div>
         

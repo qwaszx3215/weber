@@ -14,7 +14,7 @@ export default function ContactUs() {
             console.log(error.text);
         });
         e.preventDefault();
-        window.location.href='https://s13610.securessl.net/Login.aspx';
+        window.location.href='https://www.smartertools.com/';
     }
 
     return(
